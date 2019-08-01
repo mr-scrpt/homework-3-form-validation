@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 import './Form.css';
 import {Field} from '../Field';
-
+import bond from './assets/bond_approve.jpg';
 
 export default class Form extends Component{
   state={
@@ -99,7 +99,7 @@ export default class Form extends Component{
   render() {
     const {statusFirst, statusLast, statusPassword, success} = this.state;
     const content = success
-      ? <img src="./assets/bond_approve.jpg" alt="bond approve" className="t-bond-image" />
+      ? <img src={bond} alt="bond approve" className="t-bond-image" />
       : (
         <form action="" method='post' className="form" onSubmit={this.sendForm}>
           <h1>Введите свои данные, агент</h1>
