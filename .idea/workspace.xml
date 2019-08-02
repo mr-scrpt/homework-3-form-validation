@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b21ea6ad-a780-44aa-a90c-a3bab562e49b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/Form.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,10 +33,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Form/Form.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="138" column="70" selection-start-line="138" selection-start-column="70" selection-end-line="138" selection-end-column="70" />
+            <state relative-caret-position="242">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#1878#2905#0" />
               </folding>
             </state>
           </provider>
@@ -104,10 +104,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="486" />
-    <option name="y" value="47" />
+    <option name="x" value="488" />
+    <option name="y" value="6" />
     <option name="width" value="1734" />
-    <option name="height" value="1407" />
+    <option name="height" value="1373" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -196,15 +196,15 @@
       <option name="presentableId" value="Default" />
       <updated>1564586656881</updated>
       <workItem from="1564586658148" duration="19771000" />
-      <workItem from="1564675867649" duration="101000" />
+      <workItem from="1564675867649" duration="1588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20905000" />
+    <option name="totallyTimeSpent" value="22392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="486" y="47" width="1734" height="1407" extended-state="0" />
+    <frame x="488" y="6" width="1734" height="1373" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18637992" />
@@ -221,7 +221,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.40464744" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.41598022" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -294,10 +294,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Form/Form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="138" column="70" selection-start-line="138" selection-start-column="70" selection-end-line="138" selection-end-column="70" />
+        <state relative-caret-position="242">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#1878#2905#0" />
           </folding>
         </state>
       </provider>
